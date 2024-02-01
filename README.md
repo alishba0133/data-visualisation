@@ -15,6 +15,10 @@ I found some information from the Greater London Authority analysis of Rightmove
 
 The main focus of the Homelet dataset was private renting. It included London's average rent prices as well as their range. Additionally, it included details on London's and the UK's rent-to-income ratio. Because the dataset was so large, I did not use it all. I utilised data on the rent-to-income ratio from 2021 to 2023, the average private rent in London and the UK from 2021 to 2023, and the yearly variance in private rent from May 2022 to May 2023
 
+# Tools:
+
+To filter and clean the relevant data for visualization, we employed PowerBI and Excel. We Power BI for making bar charts, while for spatial graphics and dumbbell plots, we leveraged ggplot2.
+
 # Visualisations:
 
 
