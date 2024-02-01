@@ -23,10 +23,7 @@ To filter and clean the relevant data for visualization, we employed PowerBI and
 
 <br />
 1. Annual change in private rent from 2020 to 2022
-
 <br />
-
-
 <img width="452" alt="image" src="https://github.com/alishba0133/data-visualisation/assets/40602824/5543ff2e-ae0c-4d19-b1e2-2bb140d46b50">
 
 
