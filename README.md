@@ -26,65 +26,40 @@ To filter and clean the relevant data for visualization, we employed PowerBI and
 1. Annual change in private rent from 2020 to 2022
 
 <img width="452" alt="image" src="https://github.com/alishba0133/data-visualisation/assets/40602824/5543ff2e-ae0c-4d19-b1e2-2bb140d46b50">
-
-</pre>
-
+  
 2. Average rent in London vs the UK over the years 2021 to 2023
 
-<br />
-
 <img width="452" alt="image" src="https://github.com/alishba0133/data-visualisation/assets/40602824/c7919f25-f1b5-43aa-b850-057cb36effad">
-
-
+  
 3. Boroughs with annual increase in private rents of 12% and above
-
-<br />
 
 <img width="452" alt="image" src="https://github.com/alishba0133/data-visualisation/assets/40602824/513641bc-e29b-4095-8fee-c7e4c9c4f54c">
 
-
 4. Comparison of percentage of income spent on rent in London vs UK
-
-<br />
 
 <img width="452" alt="image" src="https://github.com/alishba0133/data-visualisation/assets/40602824/03e78ec3-5f58-491b-b6e6-7b2c296cba80">
 
-
 5. Survey by YouGov
 
-<br />
-
 <img width="452" alt="image" src="https://github.com/alishba0133/data-visualisation/assets/40602824/3a9b31c5-e543-4070-88ef-bd1cfdc0a734">
-
-<br />
-
 
 6. Average House Prices in London
 
 <img width="452" alt="image" src="https://github.com/alishba0133/data-visualisation/assets/40602824/e43f00e8-1264-43a2-9916-72357c8bfdcb">
 
-<br />
-
-
 7. Average House Prices in London by Type
 
 <img width="452" alt="image" src="https://github.com/alishba0133/data-visualisation/assets/40602824/a3e2552e-7a37-4274-a56a-7d2abcc89373">
-
-<br />
-
 
 8. Map showing an increase in sales of houses in each borough.
 
 <img width="452" alt="image" src="https://github.com/alishba0133/data-visualisation/assets/40602824/34754953-4442-4365-81e1-189100a8c515">
 
-<br />
-
-
 9. Dumbbell chart representing boroughs with the highest sales of houses
 
 <img width="452" alt="image" src="https://github.com/alishba0133/data-visualisation/assets/40602824/804ec977-78b5-4def-bee5-d83c3d36d946">
 
-
+</pre>
 
 
 
