@@ -21,7 +21,7 @@ To filter and clean the relevant data for visualization, we employed PowerBI and
 
 # Visualisations:
 
-
+<br />
 1. Annual change in private rent from 2020 to 2022
 
 <br />
