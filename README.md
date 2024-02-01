@@ -19,13 +19,15 @@ The main focus of the Homelet dataset was private renting. It included London's 
 
 <img width="452" alt="image" src="https://github.com/alishba0133/data-visualisation/assets/40602824/5543ff2e-ae0c-4d19-b1e2-2bb140d46b50">
 
+<br />
+
 <img width="452" alt="image" src="https://github.com/alishba0133/data-visualisation/assets/40602824/c7919f25-f1b5-43aa-b850-057cb36effad">
 
 <img width="452" alt="image" src="https://github.com/alishba0133/data-visualisation/assets/40602824/513641bc-e29b-4095-8fee-c7e4c9c4f54c">
 
-<img width="410" alt="image" src="https://github.com/alishba0133/data-visualisation/assets/40602824/03e78ec3-5f58-491b-b6e6-7b2c296cba80">
+<img width="452" alt="image" src="https://github.com/alishba0133/data-visualisation/assets/40602824/03e78ec3-5f58-491b-b6e6-7b2c296cba80">
 
-<img width="402" alt="image" src="https://github.com/alishba0133/data-visualisation/assets/40602824/3a9b31c5-e543-4070-88ef-bd1cfdc0a734">
+<img width="452" alt="image" src="https://github.com/alishba0133/data-visualisation/assets/40602824/3a9b31c5-e543-4070-88ef-bd1cfdc0a734">
 
 <img width="452" alt="image" src="https://github.com/alishba0133/data-visualisation/assets/40602824/e43f00e8-1264-43a2-9916-72357c8bfdcb">
 
